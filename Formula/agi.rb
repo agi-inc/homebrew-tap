@@ -1,8 +1,8 @@
 class Agi < Formula
   desc "Terminal-based AI agent for desktop automation"
   homepage "https://github.com/agi-inc/agi-cli"
-  url "https://registry.npmjs.org/@agi_inc/cli/-/cli-0.5.1.tgz"
-  sha256 "53a351bc0eb1971274e4caac1b81488dd6ee73c80407289fb937642db737125b"
+  url "https://registry.npmjs.org/@agi_inc/cli/-/cli-agi-cli-v0.5.2.tgz"
+  sha256 "c8d3eae160a892e32837db3dcae515e843e5383fef52b8141940c8bcf8b6d59f"
   license "MIT"
 
   depends_on "node@20"
